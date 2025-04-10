@@ -36,6 +36,7 @@ namespace _18day
 
             DataContext = this;
         }
+        //комментарий
     }
 
 }
